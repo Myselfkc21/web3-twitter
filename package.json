@@ -1,0 +1,13 @@
+{
+  "name": "web3-project",
+  "version": "0.1.0",
+  "description": "Your project description",
+  "author": "krishna chaitanya",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Myselfkc21/web3-twitter.git"
+  },
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\""
+  }
+}
